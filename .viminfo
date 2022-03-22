@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1647955345,,"wq"
+|2,0,1647957065,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -26,11 +26,17 @@
 
 # File marks:
 '0  2  21  ~/swe/before_clone
-|4,48,2,21,1647955345,"~/swe/before_clone"
+|4,48,2,21,1647957065,"~/swe/before_clone"
 '1  2  21  ~/swe/before_clone
-|4,49,2,21,1647955320,"~/swe/before_clone"
+|4,49,2,21,1647955345,"~/swe/before_clone"
+'2  2  21  ~/swe/before_clone
+|4,50,2,21,1647955320,"~/swe/before_clone"
+'3  2  21  ~/swe/before_clone
+|4,51,2,21,1647955320,"~/swe/before_clone"
 
 # Jumplist (newest first):
+-'  2  21  ~/swe/before_clone
+|4,39,2,21,1647957065,"~/swe/before_clone"
 -'  2  21  ~/swe/before_clone
 |4,39,2,21,1647955345,"~/swe/before_clone"
 -'  2  21  ~/swe/before_clone
@@ -39,11 +45,13 @@
 |4,39,1,0,1647955280,"~/swe/before_clone"
 -'  1  0  ~/swe/before_clone
 |4,39,1,0,1647955280,"~/swe/before_clone"
+-'  1  0  ~/swe/before_clone
+|4,39,1,0,1647955280,"~/swe/before_clone"
 
 # History of marks within files (newest to oldest):
 
 > ~/swe/before_clone
-	*	1647955344	0
+	*	1647957063	0
 	"	2	21
 	^	2	22
 	.	2	10
